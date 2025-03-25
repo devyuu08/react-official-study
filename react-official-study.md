@@ -55,3 +55,9 @@
 [useState](07_hooks/02.useState.md)
 
 [useEffect](07_hooks/03.useEffect.md)
+
+[useContext](07_hooks/04.useContext.md)
+
+[useMemo-useCallback](07_hooks/05.useMemo-useCallback.md)
+
+[Custom Hooks](07_hooks/06.Custom-Hooks.md)
