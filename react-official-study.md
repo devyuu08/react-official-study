@@ -61,3 +61,11 @@
 [useMemo-useCallback](07_hooks/05.useMemo-useCallback.md)
 
 [Custom Hooks](07_hooks/06.Custom-Hooks.md)
+
+## 07. Context API
+
+[Context API Intro](08_context-api/01.Context-API-Intro.md)
+
+[Create Context](08_context-api/02.Create-Context.md)
+
+[Context vs Redux](08_context-api/03.Context-vs-Redux.md)
