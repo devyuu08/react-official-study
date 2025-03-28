@@ -62,7 +62,7 @@
 
 [Custom Hooks](07_hooks/06.Custom-Hooks.md)
 
-## 07. Context API
+## 08. Context API
 
 [Context API Intro](08_context-api/01.Context-API-Intro.md)
 
@@ -70,10 +70,18 @@
 
 [Context vs Redux](08_context-api/03.Context-vs-Redux.md)
 
-## 08. Redux
+## 09. Redux
 
 [Redux Intro](09_Redux/01.Redux-Intro.md)
 
 [Redux Toolkit](09_Redux/02.Redux-Toolkit.md)
 
 [Async Redux](09_Redux/03.Async-Redux.md)
+
+## 10. Routing
+
+[React Router Intro](10_Routing/01.React-Router-Intro.md)
+
+[Route Setup](10_Routing/02.Route-Setup.md)
+
+[Dynamic Routing](10_Routing/03.Dynamic-Routing.md)
