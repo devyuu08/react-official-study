@@ -86,6 +86,10 @@
 
 [Dynamic Routing](10_Routing/03.Dynamic-Routing.md)
 
+[Nested Routes](10_Routing/04.Nested-Routes.md)
+
+[Protected Routes](10_Routing/05.Protected-Routes.md)
+
 ## 11. React Query
 
 [Query Intro](11_React-Query/01.Query-Intro.md)
