@@ -97,3 +97,9 @@
 [useQuery](11_React-Query/02.useQuery.md)
 
 [useMutation](11_React-Query/03.useMutation.md)
+
+[Query invalidation](11_React-Query/04.Query-invalidation.md)
+
+[QueryClient](11_React-Query/05.QueryClient.md)
+
+[Devtools](11_React-Query/06.Devtools.md)
