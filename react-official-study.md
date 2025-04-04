@@ -103,3 +103,11 @@
 [QueryClient](11_React-Query/05.QueryClient.md)
 
 [Devtools](11_React-Query/06.Devtools.md)
+
+## 12. Performance
+
+[Performance Intro](12_Performance/01.Performance-intro.md)
+
+[Rendering Optimization](12_Performance/02.Rendering-optimization.md)
+
+[Lazy Loading](12_Performance/03.Lazy-loading.md)
